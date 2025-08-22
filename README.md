@@ -96,4 +96,4 @@ The data is **synthetically generated using the Faker library**, stored as a **C
 ---
 
 ## Contact
-For questions, contact me at **shahuuraff@gmail.com** or connect on LinkedIn.
+For questions, contact me at **datasinan1111@gmail.com** or connect on LinkedIn **https://www.linkedin.com/in/muhammed-sinan-ev-0b96b131b/**.
